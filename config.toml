@@ -1,0 +1,4 @@
+baseURL = "http://ijc.io/"
+languageCode = "en-us"
+title = "Mumblings of an SRE"
+theme = "ananke"
